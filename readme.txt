@@ -1,4 +1,4 @@
-=== Bulk SMS BD for WooCommerce ===
+=== Bulk SMS BD for WooCommerce ===1.2
 Contributors: rahim71
 Donate link: https://rahimbd.com
 Tags: woocommerce, sms notification, order notification, bulk sms bd
